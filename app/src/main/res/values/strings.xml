@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson 13. Sounds</string>
+    <string name="btn_cow">Cow</string>
+    <string name="btn_chicken">chicken</string>
+    <string name="btn_cat">cat</string>
+    <string name="btn_duck">Duck</string>
+    <string name="btn_sheep">sheep</string>
+    <string name="btn_dog">Dog</string>
+</resources>

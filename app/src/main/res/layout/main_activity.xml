@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridLayActMain"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:columnCount="2"
+    android:layout_margin="10sp"
+    android:rowCount="3">
+
+    <Button
+        android:id="@+id/btnCow"
+        android:text="@string/btn_cow"
+        android:theme="@style/BtnStyle"/>
+
+    <Button
+        android:id="@+id/btnChicken"
+        android:text="@string/btn_chicken"
+        android:theme="@style/BtnStyle"/>
+
+    <Button
+        android:id="@+id/btnCat"
+        android:text="@string/btn_cat"
+        android:theme="@style/BtnStyle"/>
+
+    <Button
+        android:id="@+id/btnDuck"
+        android:text="@string/btn_duck"
+        android:theme="@style/BtnStyle"/>
+
+    <Button
+        android:id="@+id/btnSheep"
+        android:text="@string/btn_sheep"
+        android:theme="@style/BtnStyle"/>
+
+    <Button
+        android:id="@+id/btnDog"
+        android:text="@string/btn_dog"
+        android:theme="@style/BtnStyle"/>
+
+
+
+
+
+
+</GridLayout>
